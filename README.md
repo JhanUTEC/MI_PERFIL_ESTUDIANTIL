@@ -1,4 +1,4 @@
-![This is an image](https://cdn.pixabay.com/photo/2015/05/22/20/28/welcome-779693_960_720.png)
+![This is an image](C:\Users\PC\Desktop.png)
 
 # MI_PERFIL_ESTUDIANTIL
 Soy una persona  dedicada al TRABAJO, DEDICACIÓN Y SUPERACIÓN.
