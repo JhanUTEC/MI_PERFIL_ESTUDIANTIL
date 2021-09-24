@@ -1,4 +1,4 @@
-![This is an image](C:\Users\PC\Desktop.png)
+![This is an image](C:\Users\PC\Desktop.md)
 
 # MI_PERFIL_ESTUDIANTIL
 Soy una persona  dedicada al TRABAJO, DEDICACIÓN Y SUPERACIÓN.
